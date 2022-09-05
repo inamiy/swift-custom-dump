@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "xctest-dynamic-overlay",
-        "repositoryURL": "https://github.com/pointfreeco/xctest-dynamic-overlay",
+        "repositoryURL": "https://github.com/inamiy/xctest-dynamic-overlay",
         "state": {
-          "branch": null,
-          "revision": "b9eeb1a7ea3fd6fea54ce57dee2f5794b667c8df",
-          "version": "0.2.0"
+          "branch": "SwiftWasm",
+          "revision": "aa4a04480ec442a54ef3ad5cd9e2d07f561540d2",
+          "version": null
         }
       }
     ]

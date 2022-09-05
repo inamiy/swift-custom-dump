@@ -1,4 +1,4 @@
-// swift-tools-version:5.1
+// swift-tools-version:5.5
 
 import PackageDescription
 
@@ -17,7 +17,7 @@ let package = Package(
     )
   ],
   dependencies: [
-    .package(url: "https://github.com/pointfreeco/xctest-dynamic-overlay", from: "0.2.0")
+    .package(url: "https://github.com/inamiy/xctest-dynamic-overlay", branch: "SwiftWasm")
   ],
   targets: [
     .target(
